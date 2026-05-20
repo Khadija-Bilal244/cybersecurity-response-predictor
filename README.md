@@ -116,10 +116,9 @@ Cybersecurity-incident-response/
 │
 └── cybersecurity_model.ipynb
 │
-├── plots/
-│   ├── confusion_matrix.png
-│   ├── class_distribution.png
-│   └── feature_importance.png
+├── confusion_matrix.png
+├── class_distribution.png
+└── feature_importance.png
 │
 ├── README.md
 ```
