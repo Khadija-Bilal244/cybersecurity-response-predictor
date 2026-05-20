@@ -112,11 +112,9 @@ Given cybersecurity incident attributes such as attack type, severity, timestamp
 ```text
 Cybersecurity-incident-response/
 │
-├── dataset/
-│   └── ai_ml_cybersecurity_dataset.csv
+└── ai_ml_cybersecurity_dataset.csv
 │
-├── notebook/
-│   └── cybersecurity_model.ipynb
+└── cybersecurity_model.ipynb
 │
 ├── plots/
 │   ├── confusion_matrix.png
